@@ -1,0 +1,87 @@
+.Loginpage-container {
+  font-family: "Montserrat", sans-serif;
+  display: grid;
+  grid-template-columns: 40% 60%;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+  width: 99vw;
+}
+.Loginpage-container a {
+  all: unset;
+  cursor: pointer;
+  color: #856504;
+}
+.Loginpage-container .loginpage-color {
+  color: #856504;
+}
+.Loginpage-container .loginpage-gridleft {
+  height: 100%;
+  background-color: #ffc107;
+}
+.Loginpage-container .loginFormHeader-loginpage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Loginpage-container .loginFormHeader-loginpage div {
+  font-size: 24px;
+}
+.Loginpage-container .loginpage-gridright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.Loginpage-container .loginInsidecontent {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 50%;
+}
+.Loginpage-container .checkboxloginpage {
+  display: flex;
+  flex-direction: row;
+  gap: 0.2rem;
+  align-items: center;
+}
+.Loginpage-container .loginformbottom-loginpage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Loginpage-container .loginformbottom-loginpage button {
+  all: unset;
+  background-color: #ffc107;
+  height: 2.4rem;
+  width: 6rem;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.Loginpage-container .loginformbottom-loginpage input {
+  cursor: pointer;
+}
+.Loginpage-container .loginformbottom-loginpage label {
+  cursor: pointer;
+}
+.Loginpage-container input::-moz-placeholder {
+  color: #856504;
+  font-size: 16px;
+}
+.Loginpage-container input::placeholder {
+  color: #856504;
+  font-size: 16px;
+}
+.Loginpage-container .input-loginpage {
+  all: unset;
+  height: 2rem;
+  border: solid 0.3px #ffc107;
+  padding: 0.3rem;
+  color: #856504;
+  font-weight: 450;
+  font-size: 19px;
+}/*# sourceMappingURL=Login.css.map */

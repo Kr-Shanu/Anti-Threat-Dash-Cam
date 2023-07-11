@@ -1,0 +1,62 @@
+
+.button-container{
+    display: flex;
+    gap:1rem;
+    // justify-content: flex-end;
+    margin-right: 5%;
+    position: absolute;
+    bottom: 5rem;
+    right: 1rem;
+}
+
+.button-unselected{
+    background-color: white;
+    color: #302401;
+    border-radius: 1rem;
+    width: 8.5rem;
+    height: 3.4rem;
+    border-color: #FFC107;
+    cursor: pointer;
+}
+
+.button-selected{
+    background-color: #FFC107;
+    color: white;
+    border-radius: 1rem;
+    width: 8.5rem;
+    height: 3.4rem;
+    border-color: #FFC107;
+    cursor: pointer;
+}
+
+
+.InfoWindowContainer{
+    display: flex;
+    width: 13rem;
+
+    img{
+        height: 60px;
+        width: auto;
+        border-radius: 100%;
+    }
+}
+
+.infowindowTextContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.infowindowName{
+    // align-items: center;
+    width: auto;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #6764ff;
+}
+
+.infowindowDistance{
+    font-size: 10px;
+}

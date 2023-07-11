@@ -1,0 +1,203 @@
+/* html {
+    font-size: 90.5%;
+  }
+   */
+   /* body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    color: aliceblue;
+    font-family: "Raleway", sans-serif;
+  }   */
+/*   
+  .App {
+    text-align: center;
+  }
+  
+  .App-link {
+    color: #8be3fb;
+  } */
+  
+  /* div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  } */
+  
+  /* p {
+    font-size: 4rem;
+  }
+  
+  h1 {
+    font-size: 7rem;
+    text-transform: capitalize;
+  }
+  
+  .h1style {
+    min-width: 20rem;
+    width: 60rem;
+    padding: 2rem 2rem;
+    background-color: azure;
+    color: #2980b9;
+    border-radius: 5rem;
+    box-shadow: 0rem 2rem 2rem -1.5rem rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .btn,
+  .btnInner {
+    margin: auto;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    padding: 1rem 3rem;
+    background-color: #2980b9;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 1rem;
+    font-size: 3rem;
+  }
+  
+  .btnInner {
+    background-color: #d12b54;
+    padding: 0.7rem 1.5rem;
+    font-size: 1.5rem;
+    margin-left: 4rem;
+  } */
+  
+  /* .btn:hover {
+    background-color: #136ca7;
+  } */
+
+  .login-body{
+    border: 1px solid black;
+    top : 0;
+    margin: 0 0;
+    height: 100vh;
+    background-color: #f4eded;
+    border-radius: 5px;
+    font-family: "Raleway", sans-serif;
+  } 
+
+
+  .form-login {
+    background: #FFBF00;
+    padding: 9rem;
+    border-radius: 1.5rem;
+    outline: none;
+    text-align: left;
+    max-width: 40%;
+    margin-top: 7%;
+    margin-left: 30%;
+
+  }
+  
+  .form-label {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    text-align: right;
+    text-transform: capitalize;
+    
+  }
+  
+  .form-input {
+    min-width: 17rem;
+    height: 2.5rem;
+    border-radius: 0.75rem;
+    font-size: 1.4rem;
+    text-align: left;
+    border: none;
+    margin-top: 0.3rem;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    padding: 0.5rem;
+    outline: none;
+
+  }
+  
+  button.form[type] {
+    border: none;
+    padding: 0.4rem 1rem;
+    text-align: center;
+    margin-top: 35px;
+    font-family: "Raleway", sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    outline: none;
+    width:275px;
+    background-color: #E3963E;
+  }
+
+  
+
+   
+ /* body {
+    background-color: #dceefd;
+    border-radius: 5px;
+    font-family: "Raleway", sans-serif;
+  }  */
+  
+    
+   /* h2 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .textLeft {
+    text-align: left;
+  }
+  
+  .loadingDiv {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  
+  .card {
+    width: 450px;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: auto;
+  }
+  
+  .image {
+    min-width: 155px;
+    margin-right: 20px;
+  }
+  
+  .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+  }
+  
+  .articles {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number1 {
+    font-weight: 500;
+  }
+  
+  .followers {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number2 {
+    font-weight: 500;
+  }
+  
+  .rating {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number3 {
+    font-weight: 500;
+  }  */

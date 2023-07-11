@@ -1,0 +1,45 @@
+.SurveliancePageContainer {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.SurveliancePageContainer .survelliancebtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.SurveliancePageContainer .survelliancebtn button {
+  all: unset;
+  border: solid 5px #e1a900;
+  border-radius: 35px;
+  height: 3.5rem;
+  width: 12rem;
+  text-align: center;
+  cursor: pointer;
+  background-color: #ffc107;
+  color: #7C8A9F;
+  font-size: 20px;
+  font-weight: 500;
+}
+.SurveliancePageContainer h1 {
+  text-align: center;
+  margin-top: 2rem;
+  color: #7c8a9f;
+}
+.SurveliancePageContainer h2 {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: #4d5664;
+}
+.SurveliancePageContainer .imgSurv {
+  margin-left: 6.3rem;
+}
+.SurveliancePageContainer .streamSurv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=survelliance.css.map */

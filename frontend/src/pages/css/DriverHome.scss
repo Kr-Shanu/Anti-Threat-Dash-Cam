@@ -1,0 +1,33 @@
+.DriverNamecontainer {
+    width: 100vw;
+    height: 100vh;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+
+  .driverHomeNocam {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    p{
+      font-size: 30px;
+      font-weight: 600;
+      color: #7C8A9F;
+    }
+  }
+  .videoFeedDriverHome{
+    display: flex;
+    // height: 100%;
+    margin-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  h1{
+    text-align: center;
+    margin: 2rem 0rem 0rem 2rem;
+  }
+}

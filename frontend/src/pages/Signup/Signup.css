@@ -1,0 +1,95 @@
+.Signuppage-container {
+  font-family: "Montserrat", sans-serif;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+  width: 99vw;
+}
+.Signuppage-container .signup-color {
+  color: #856504;
+}
+.Signuppage-container a {
+  all: unset;
+  cursor: pointer;
+  color: #856504;
+}
+.Signuppage-container .signuppage-gridleft {
+  height: 100%;
+  background-color: #ffc107;
+}
+.Signuppage-container .signupFormHeader-signuppage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Signuppage-container .signupFormHeader-signuppage div {
+  font-size: 24px;
+}
+.Signuppage-container .signupPage-gridright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.Signuppage-container .signupInsidecontent {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 60%;
+}
+.Signuppage-container .checkboxsignuppage {
+  display: flex;
+  flex-direction: row;
+  gap: 0.2rem;
+  align-items: center;
+}
+.Signuppage-container .signupformbottom-signuppage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Signuppage-container .signupformbottom-signuppage button {
+  all: unset;
+  background-color: #ffc107;
+  height: 2.4rem;
+  width: 6rem;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.Signuppage-container .signupformbottom-signuppage input {
+  cursor: pointer;
+}
+.Signuppage-container .signupformbottom-signuppage label {
+  cursor: pointer;
+}
+.Signuppage-container input::-moz-placeholder {
+  color: #856504;
+  font-size: 16px;
+}
+.Signuppage-container input::placeholder {
+  color: #856504;
+  font-size: 16px;
+}
+.Signuppage-container .input-signuppage {
+  all: unset;
+  height: 2rem;
+  border: solid 0.3px #ffc107;
+  padding: 0.3rem;
+  color: #856504;
+  font-weight: 450;
+  font-size: 19px;
+}
+.Signuppage-container .inputBoxes-signupPage {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.Signuppage-container .grid-expand-signupPage {
+  grid-column: span 2;
+}/*# sourceMappingURL=Signup.css.map */
